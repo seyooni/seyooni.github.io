@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
+title:  "깃허브 블로그 만들기"
+author: yoon
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
